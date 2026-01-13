@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const links = [
         { name: "Instagram", url: "https://www.instagram.com/axtherapy/" },
         { name: "Facebook", url: "https://www.facebook.com/AXTherapy", icon: "bi bi-facebook" },
+        { name: "Ubicación", url: "https://maps.app.goo.gl/CEDyR9rPbuQbneKB7", icon: "bi bi-location" },
         { name: "Agenda tú cita por WhatsApp", url: "https://api.whatsapp.com/send/?phone=8116907946&text&type=phone_number&app_absent=0", icon: "bi bi-palette" },
         { name: "LinkedIn", url: "https://linkedin.com/in/roochaz/", icon: "bi bi-linkedin" },
         { name: "Contacto por Email", url: "mailto:ivanrocha@viaeducacion.org", icon: "bi bi-envelope" }
